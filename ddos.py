@@ -7,8 +7,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes, MessageHandler, filters
 import cloudscraper
 
-TOKEN = "YourBotTokken"
-ADMIN_ID = 7361836976 #Your Id Number
+TOKEN = "8746816423:AAFXc2IY2vgjHJ6S2ehTO9EiMzJ42FYaW-Q"
+ADMIN_ID = 8667388751 #Your Id Number
 
 attack_active = False
 current_target = ""
